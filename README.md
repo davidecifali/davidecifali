@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @davidecifali
-- 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in web development
 - 📫 How to reach me: https://www.linkedin.com/in/davide-cifali-6538b2127/ 
 
 <!---
